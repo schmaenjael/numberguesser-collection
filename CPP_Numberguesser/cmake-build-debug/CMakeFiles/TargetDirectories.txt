@@ -1,0 +1,3 @@
+D:/Informatik_Dateien/IT/Programmiersprachen_Runtime/C/Numberguesser/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Informatik_Dateien/IT/Programmiersprachen_Runtime/C/Numberguesser/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Informatik_Dateien/IT/Programmiersprachen_Runtime/C/Numberguesser/cmake-build-debug/CMakeFiles/rebuild_cache.dir

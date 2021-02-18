@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Informatik_Dateien/IT/Programmiersprachen_Runtime/C/Numberguesser/main.cpp
+iostream
+-
+ctime
+-
+cstdio
+-
+
