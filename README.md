@@ -38,6 +38,8 @@ NumberGuesser
 │   │    ├── modules.xml
 │   │    └── .gitignore
 │   ├── .cmake-build-debug
+│   │    ├── CMakeFiles
+│   │    ├── Makefile
 │   │    └── Numberguesser.java
 │   ├── CMakeLists.txt
 │   └── main.cpp
